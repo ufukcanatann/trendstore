@@ -1,0 +1,87 @@
+<div class="category_bag">
+
+ <div class="heading "><h1><span>{{ cheading_title }}</span></h1></div>
+ <div class="homecategory row">
+    <div id="cat-img" class="owl-carousel owl-theme">
+           {% set temp = 0 %}
+{% set setCol = 2 %}
+        {% for category in categories %}
+
+            {% set temp = temp + 1 %}
+
+        {% if temp % setCol == 1 %}
+            <div class="multi-row">
+        {% endif %}
+
+            {% if category.category_id == category_id %}
+                <div class="block-cat-wr col-xs-12 cless">
+                    <div class="categorybr">
+                    <a href="{{ category.href }}">
+                        {% if category.image_name %}
+                            <img src="{{ category.image_name }}" class="img-responsive center-block" alt="">
+                        {% else %}
+                            <img src="image/no_image.png" class="img-responsive center-block" alt="">
+                        {% endif %}
+                        <div class="catcontent">
+                            <h2><span>{{ category.name }}</span></h2>
+                            <h4>shop now</h4> 
+                        </div>
+                    </a>
+                    </div>
+                </div>
+            {% else %}
+                <div class="block-cat-wr col-xs-12 cless">
+                    <div class="categorybr">
+                    <a href="{{ category.href }}">
+                        {% if category.image_name %}
+                           <img src="{{ category.image_name }}" class="img-responsive center-block" alt="">
+                        {% else %}
+                            <img src="image/no_image.png" class="img-responsive center-block" alt="">
+                        {% endif %}
+
+                        <div class="catcontent">
+                            <h2><span class="categorybor">{{ category.name }}</span></h2>
+                        </div>
+                    </a>
+                    </div>
+                </div>
+            {% endif %}
+
+        {% if temp % setCol == 0 %}
+            </div>
+        {% endif %}
+
+  {% endfor %}
+
+  {% if products|length % setCol != 0 %}
+    <!-- <h1>hii</h1> -->
+        </div>
+    {% endif %}
+
+    </div>     
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+ $(document).ready(function() {
+    $("#cat-img").owlCarousel({
+    itemsCustom : [
+    [0, 1],
+    [320, 2],
+    [400, 3],
+    [600, 3],
+    [768, 5],
+    [992, 3],
+    [1200, 4],
+    [1410, 5]
+    ],
+      // autoPlay: 6000,
+      navigationText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+      navigation : true,
+      pagination:false
+    });
+});
+</script>

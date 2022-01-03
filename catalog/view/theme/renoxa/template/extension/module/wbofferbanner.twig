@@ -1,0 +1,16 @@
+
+			{% for banner in banners %}
+				<div class="col-xs-6 beffect offbanner">
+				  {% if banner.link %}
+				  	<a href="{{ banner.link }}">
+				  		<img src="{{ banner.image }}" alt="{{ banner.title }}" class="img-responsive" />
+				  	</a>
+				  {% else %}
+				  	<img src="{{ banner.image }}" alt="{{ banner.title }}" class="img-responsive" />{% endif %}
+				</div>
+			  {% endfor %}
+
+</div> <!-- wbcenterbanner.twing row div colplete here -->
+</div> <!-- wbcenterbanner.twing row div colplete here -->
+</div> <!-- wbofferbanner.twing row div colplete here -->
+</div>	<!-- wbofferbanner.twing row div colplete here -->	

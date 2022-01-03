@@ -1,0 +1,23 @@
+<div class="col-sm-8 col-xs-12 banner-top"><!-- this div complete wbbannnnerbottom.twing page -->
+<div class=" row"><!-- this div complete wbbannnnerbottom.twing page -->
+{% for banner in banners %}
+			<div class="col-sm-12 col-xs-12 bnrbottom">
+				<div class=" beffect">
+				  {% if banner.link %}
+				  	<a href="{{ banner.link }}">
+				  		<img src="{{ banner.image }}" alt="{{ banner.title }}" class="img-responsive" />
+				  	</a>
+				  {% else %}
+				  	<img src="{{ banner.image }}" alt="{{ banner.title }}" class="img-responsive" />{% endif %}
+				</div>
+				</div>
+			  {% endfor %}
+
+	
+
+	
+
+
+
+ 
+

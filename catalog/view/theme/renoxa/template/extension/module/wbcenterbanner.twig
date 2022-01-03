@@ -1,0 +1,21 @@
+<div class="container cen-pad"><!-- this div complete wbbannnnerbottom.twing page -->
+<div class="row"><!-- this div complete wbbannerbottom.twing page -->
+<div class="col-sm-4 col-xs-5 cenapp">
+	{% for banner in banners %}
+				<div class=" beffect">
+				  {% if banner.link %}
+				  	<a href="{{ banner.link }}">
+				  		<img src="{{ banner.image }}" alt="{{ banner.title }}" class="img-responsive" />
+				  	</a>
+				  {% else %}
+				  	<img src="{{ banner.image }}" alt="{{ banner.title }}" class="img-responsive" />{% endif %}
+				</div>
+				
+			  {% endfor %}
+
+	
+</div>
+
+
+ 
+
