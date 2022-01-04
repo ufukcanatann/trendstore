@@ -1,33 +1,34 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']    = 'Purchase a Gift Certificate';
-$_['cheading_title']    = 'Purchase a Gift Certificate';
+$_['heading_title']    = 'Hediye Çeki Satın Al';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_voucher']     = 'Gift Certificate';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_account']     = 'Hesabım';
+$_['text_voucher']     = 'Hediye Çeki';
+$_['text_description'] = 'Siparişinizin ödemesini yaptığınızda hediye çeki alıcısına gönderilecektir.';
+$_['text_agree']       = 'Hediye çekinin iade edilemeyeceğini biliyorum ve onaylıyorum';
+$_['text_message']     = '<p>Hediye çekini satın alabilmeniz için sepetinize eklendi! Siparişiniz tamamlandığında hediye çeki ile ilgili detaylar alıcı e-posta adresine gönderilecektir.</p>';
+$_['text_for']         = '%s tutarında %s için hediye çeki';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name';
-$_['entry_to_email']   = 'Recipient\'s e-mail';
-$_['entry_from_name']  = 'Your Name';
-$_['entry_from_email'] = 'Your e-mail';
-$_['entry_theme']      = 'Gift Certificate Theme';
-$_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Amount';
+$_['entry_to_name']    = 'Alıcı Adı';
+$_['entry_to_email']   = 'Alıcı E-Posta';
+$_['entry_from_name']  = 'Sizin Adınız';
+$_['entry_from_email'] = 'Sizin E-Postanız';
+$_['entry_theme']      = 'Hediye Çeki Teması';
+$_['entry_message']    = 'Mesajınız';
+$_['entry_amount']     = 'Tutar';
 
 // Help
-$_['help_message']     = 'Optional';
-$_['help_amount']      = 'Value must be between %s and %s';
+$_['help_message']     = 'İsteğe bağlı';
+$_['help_amount']      = '%s ile %s arasında olmalı';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+$_['error_to_name']    = 'Alıcının adı 1 ile 64 karakter arasında olmalıdır!';
+$_['error_from_name']  = 'Adınız 1 ile 64 karakter arasında olmalıdır!';
+$_['error_email']      = 'Geçerli bir E-Posta adresi yazınız!';
+$_['error_theme']      = 'Bir tema seçiniz!';
+$_['error_amount']     = 'Tutar %s ile %s arasında olmalıdır!';
+$_['error_agree']      = 'Uyarı: Hediye çekinin iade olmayacağını kabul etmelisiniz!';

@@ -1,23 +1,24 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']     = 'Product Comparison';
-$_['cheading_title']     = 'Product Comparison';
+$_['heading_title']     = 'Ürün Karşılaştırma';
 
 // Text
-$_['text_product']      = 'Product Details';
-$_['text_name']         = 'Product';
-$_['text_image']        = 'Image';
-$_['text_price']        = 'Price';
-$_['text_model']        = 'Model';
-$_['text_manufacturer'] = 'Brand';
-$_['text_availability'] = 'Availability';
-$_['text_instock']      = 'In Stock';
-$_['text_rating']       = 'Rating';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_success']      = '<h2>Success !!</h2>You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
-$_['text_remove']       = '<h2>Success !!</h2> You have modified your product comparison!';
-$_['ctext_empty']        = 'You have not chosen any products to compare.';
+$_['text_product']      = 'Ürün Detayları';
+$_['text_name']         = 'Ürün';
+$_['text_image']        = 'Resim';
+$_['text_price']        = 'Fiyatı';
+$_['text_model']        = 'Ürün Kodu';
+$_['text_manufacturer'] = 'Marka';
+$_['text_availability'] = 'Stok Durumu';
+$_['text_instock']      = 'Stokta var';
+$_['text_rating']       = 'Oylama';
+$_['text_reviews']      = '%s yorum yapılmış.';
+$_['text_summary']      = 'Özet';
+$_['text_weight']       = 'Ağırlık';
+$_['text_dimension']    = 'Boyutları (U x G x Y)';
+$_['text_compare']      = 'Ürün Karşılaştır (%s)';
+$_['text_success']      = 'Başarılı: <a href="%s">%s</a> ürünü <a href="%s">ürün karşılaştırma</a> listenize eklendi!';
+$_['text_remove']       = 'Başarılı: Ürün karşılaştırma listeniz değiştirildi!';
+$_['text_empty']        = 'Karşılaştırmak için bir ürün seçmediniz.';

@@ -1,10 +1,12 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_success']     = 'Success: You have modified your shopping cart!';
+$_['text_success']     = 'Sipariş toplamı başarıyla tekrar hesaplandı!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_stock']      = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']    = 'Minimum order amount for %s is %s!';
-$_['error_store']      = 'Product can not be bought from the store you have choosen!';
-$_['error_required']   = '%s required!';
+$_['error_permission'] = 'Uyarı: API erişim iznine sahip değilsiniz!';
+$_['error_stock']      = '*** İşaretli ürünler stokta yok ya da istenilen adet bulunmuyor!';
+$_['error_minimum']    = '%s ürünü için minimum sipariş adedi %s!';
+$_['error_store']      = 'Ürün seçtiğiniz mağazadan satın alınamaz!';
+$_['error_required']   = '%s gerekli!';

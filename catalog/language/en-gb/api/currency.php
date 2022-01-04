@@ -1,7 +1,9 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_success']     = 'Success: Your currency has been changed!';
+$_['text_success']     = 'Başarılı: Para birimi değiştirildi!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_currency']   = 'Warning: Currency code is invalid!';
+$_['error_permission'] = 'Uyarı: API erişim iznine sahip değilsiniz!';
+$_['error_currency']   = 'Uyarı: Para birim kodu geçersiz!';

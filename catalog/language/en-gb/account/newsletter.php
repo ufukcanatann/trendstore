@@ -1,12 +1,13 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']    = 'Newsletter Subscription';
-$_['cheading_title']    = 'Newsletter Subscription';
+$_['heading_title']    = 'Bülten Aboneliği';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_success']     = 'Success: Your newsletter subscription has been successfully updated!';
+$_['text_account']     = 'Hesabım';
+$_['text_newsletter']  = 'Bülten Aboneliği';
+$_['text_success']     = 'Başarılı: Bülten aboneliğiniz başarılı bir şekilde güncellendi!';
 
 // Entry
-$_['entry_newsletter'] = 'Subscribe';
+$_['entry_newsletter'] = 'Abonelik:';

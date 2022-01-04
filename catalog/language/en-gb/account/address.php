@@ -1,37 +1,39 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']      = 'Address Book';
+$_['heading_title']      = 'Adreslerim';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_address_book']  = 'Address Book Entries';
-$_['text_address_add']   = 'Add Address';
-$_['text_address_edit']  = 'Edit Address';
-$_['text_add']           = 'Your address has been successfully added';
-$_['text_edit']          = 'Your address has been successfully updated';
-$_['text_delete']        = 'Your address has been successfully deleted';
-$_['text_empty']         = 'You have no addresses in your account.';
+$_['text_account']       = 'Hesabım';
+$_['text_address_book']  = 'Adreslerim';
+$_['text_address_add']   = 'Adres Ekle';
+$_['text_address_edit']  = 'Adresi Düzenle';
+$_['text_add']           = 'Adresinizi başarılı bir şekilde eklediniz';
+$_['text_edit']          = 'Adresiniz başarılı bir şekilde güncellediniz';
+$_['text_delete']        = 'Adresiniz başarılı bir şekilde sildiniz';
+$_['text_empty']         = 'Hesabınızda kayıtlı hiç adres yok.';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_company']      = 'Company';
-$_['entry_address_1']    = 'Address 1';
-$_['entry_address_2']    = 'Address 2';
-$_['entry_postcode']     = 'Post Code';
-$_['entry_city']         = 'City';
-$_['entry_country']      = 'Country';
-$_['entry_zone']         = 'Region / State';
-$_['entry_default']      = 'Default Address';
+$_['entry_firstname']    = 'Adınız';
+$_['entry_lastname']     = 'Soyadınız';
+$_['entry_company']      = 'Şirket Adı';
+$_['entry_address_1']    = 'Adres 1';
+$_['entry_address_2']    = 'Adres 2';
+$_['entry_postcode']     = 'Posta Kodu';
+$_['entry_city']         = 'İlçe / Semt';
+$_['entry_country']      = 'Ülke';
+$_['entry_zone']         = 'Şehir';
+$_['entry_default']      = 'Varsayılan Adres';
 
 // Error
-$_['error_delete']       = 'Warning: You must have at least one address!';
-$_['error_default']      = 'Warning: You can not delete your default address!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']         = 'City must be between 2 and 128 characters!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
+$_['error_delete']       = 'Uyarı: En az bir adres yazmalısınız!';
+$_['error_default']      = 'Uyarı: Varsayılan adresinizi silemezsiniz!';
+$_['error_firstname']    = 'Ad alanı 1 ile 32 karakter arasında olmalı!';
+$_['error_lastname']     = 'Soyad alanı 1 ile 32 karakter arasında olmalı!';
+$_['error_address_1']    = 'Adres alanı 3 ile 128 karakter arasında olmalı!';
+$_['error_postcode']     = 'Posta kodu alanı 2 ile 10 karakter arasında olmalı!';
+$_['error_city']         = 'İlçe / semt alanı 2 ile 128 karakter arasında olmalı!';
+$_['error_country']      = 'Lütfen bir ülke seçiniz!';
+$_['error_zone']         = 'Lütfen bir şehir seçiniz!';
+$_['error_custom_field'] = '%s gerekli!';

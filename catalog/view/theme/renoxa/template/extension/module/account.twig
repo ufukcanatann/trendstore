@@ -1,7 +1,7 @@
 <div class="list-group accolumn">
  
 
-  <h3><svg class="" width="20px" height="20px"> <use xlink:href="#acluser"></use> </svg>ACCOUNT SETTINGS</h3>
+  <h3><svg class="" width="20px" height="20px"> <use xlink:href="#acluser"></use> </svg>Hesap Ayarları</h3>
    {% if not logged %}
     <a href="{{ login }}" class="list-group-item">{{ text_login }}</a> <a href="{{ register }}" class="list-group-item">{{ text_register }}</a> <a href="{{ forgotten }}" class="list-group-item">{{ text_forgotten }}</a>
   {% endif %}
@@ -14,13 +14,13 @@
   {% if logged %}
     <a href="{{ address }}" class="list-group-item">{{ text_address }}</a>
     <hr>
-    <h3><svg class="" width="20px" height="20px"> <use xlink:href="#aclorder"></use> </svg>MY ORDERS </h3>
+    <h3><svg class="" width="20px" height="20px"> <use xlink:href="#aclorder"></use> </svg>Siparişlerim </h3>
     <a href="{{ order }}" class="list-group-item">{{ text_order }}</a> 
     <a href="{{ download }}" class="list-group-item">{{ text_download }}</a>
     <a href="{{ return }}" class="list-group-item">{{ text_return }}</a> 
     <a href="{{ transaction }}" class="list-group-item">{{ text_transaction }}</a> 
     <hr>
-    <h3><svg class="" width="20px" height="20px"> <use xlink:href="#aclufolder"></use> </svg>MY STUFF</h3>
+    <h3><svg class="" width="20px" height="20px"> <use xlink:href="#aclufolder"></use> </svg>Eşyalarım</h3>
     <a href="{{ wishlist }}" class="list-group-item">{{ text_wishlist }}</a>
     <a href="{{ recurring }}" class="list-group-item">{{ text_recurring }}</a> 
     <a href="{{ reward }}" class="list-group-item">{{ text_reward }}</a>

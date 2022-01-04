@@ -1,16 +1,18 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_success']           = 'Success: You have modified orders!';
+$_['text_success']           = 'Başarlı: Sipariş başarıyla değiştirildi!';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to access the API!';
-$_['error_customer']         = 'Warning: Customer details needs to be set!';
-$_['error_payment_address']  = 'Warning: Payment address required!';
-$_['error_payment_method']   = 'Warning: Payment method required!';
-$_['error_no_payment']       = 'Warning: No Payment options are available!';
-$_['error_shipping_address'] = 'Warning: Shipping address required!';
-$_['error_shipping_method']  = 'Warning: Shipping method required!';
-$_['error_no_shipping']      = 'Warning: No Shipping options are available!';
-$_['error_stock']            = 'Warning: Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Warning: Minimum order amount for %s is %s!';
-$_['error_not_found']        = 'Warning: Order could not be found!';
+$_['error_permission']       = 'Uyarı: API erişim iznine sahip değilsiniz!';
+$_['error_customer']         = 'Müşteri bilgilerini ayarlamak gerekli!';
+$_['error_payment_address']  = 'Fatura adresi gerekli!';
+$_['error_payment_method']   = 'Ödeme metodu gerekli!';
+$_['error_no_payment']       = 'Uyarı: Hiçbir ödeme metodu kullanılabilir!';
+$_['error_shipping_address'] = 'Kargo adresi gerekli!';
+$_['error_shipping_method']  = 'Kargo metodu gerekli!';
+$_['error_no_shipping']      = 'Uyarı: Hiçbir kargo metodu kullanılabilir!';
+$_['error_stock']            = '*** İşaretli ürünler stokta yok ya da istenilen miktarda bulunmuyor!';
+$_['error_minimum']          = '%s ürünü için minimum sipariş miktarı %s!';
+$_['error_not_found']        = 'Uyarı: Sipariş bulunamadı!';

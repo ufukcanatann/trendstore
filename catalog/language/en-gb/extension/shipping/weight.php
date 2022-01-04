@@ -1,4 +1,6 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_title']  = 'Weight Based Shipping';
-$_['text_weight'] = 'Weight:';
+$_['text_title']  = 'Ağırlığa Göre Kargo';
+$_['text_weight'] = 'Ağırlık:';

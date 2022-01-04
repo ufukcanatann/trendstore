@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_upload']    = 'Your file was successfully uploaded!';
+$_['text_upload']    = 'Dosyanız başarıyla yüklendi!';
 
 // Error
-$_['error_filename'] = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype'] = 'Invalid file type!';
-$_['error_upload']   = 'Upload required!';
+$_['error_filename'] = 'Dosya adı 3 ile 64 karakter arasında olmalıdır!';
+$_['error_filetype'] = 'İzin verilmeyen dosya türü!';
+$_['error_upload']   = 'Dosya gerekli!';

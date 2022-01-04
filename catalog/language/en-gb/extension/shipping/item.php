@@ -1,4 +1,6 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_title']       = 'Per Item';
-$_['text_description'] = 'Per Item Shipping Rate';
+$_['text_title']       = 'Parça Başına Kargo';
+$_['text_description'] = 'Parça Başına Kargo';

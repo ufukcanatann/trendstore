@@ -1,10 +1,12 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_title']				= 'Credit Card / Debit Card (SagePay)';
-$_['text_credit_card']			= 'Credit Card Details';
+$_['text_title']           = 'Kredi Kartı / Banka Kartı (SagePay US)';
+$_['text_credit_card']     = 'Kredi Kartı Detayları';
 
 // Entry
-$_['entry_cc_owner']			= 'Card Owner';
-$_['entry_cc_number']			= 'Card Number';
-$_['entry_cc_expire_date']		= 'Card Expiry Date';
-$_['entry_cc_cvv2']				= 'Card Security Code (CVV2)';
+$_['entry_cc_owner']       = 'Kart Sahibi';
+$_['entry_cc_number']      = 'Kart Numarası';
+$_['entry_cc_expire_date'] = 'Son Kullanma Tarihi';
+$_['entry_cc_cvv2']        = 'Güvenlik Kodu (CVV2)';

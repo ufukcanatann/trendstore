@@ -1,34 +1,35 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']        = 'Register Account';
-$_['cheading_title']        = 'Register Account';
+$_['heading_title']        = 'Hesap Oluştur';
 
 // Text
-$_['text_account']         = 'Account';
-$_['text_register']        = 'Register';
-$_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
-$_['text_your_details']    = 'Your Personal Details';
-$_['text_newsletter']      = 'Newsletter';
-$_['text_your_password']   = 'Your Password';
-$_['text_agree']           = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_account']         = 'Hesabım';
+$_['text_register']        = 'Kayıt Ol';
+$_['text_account_already'] = 'Eğer daha önce kayıt olduysanız, lütfen <a href="%s">oturum açma</a> sayfasına gidiniz.';
+$_['text_your_details']    = 'Üyelik Bilgileri';
+$_['text_newsletter']      = 'Bülten Aboneliği';
+$_['text_your_password']   = 'Parolanız';
+$_['text_agree']           = '<a href="%s" class="agree"><b>%s</b></a>\'ni okudum ve kabul ediyorum.';
 
 // Entry
-$_['entry_customer_group'] = 'Customer Group';
-$_['entry_firstname']      = 'First Name';
-$_['entry_lastname']       = 'Last Name';
-$_['entry_email']          = 'E-Mail';
-$_['entry_telephone']      = 'Telephone';
-$_['entry_newsletter']     = 'Subscribe';
-$_['entry_password']       = 'Password';
-$_['entry_confirm']        = 'Password Confirm';
+$_['entry_customer_group'] = 'Müşteri Grubu';
+$_['entry_firstname']      = 'Adınız';
+$_['entry_lastname']       = 'Soyadınız';
+$_['entry_email']          = 'E-Posta';
+$_['entry_telephone']      = 'Telefon';
+$_['entry_newsletter']     = 'Bülten Aboneliği';
+$_['entry_password']       = 'Parola';
+$_['entry_confirm']        = 'Parola(Tekrar)';
 
 // Error
-$_['error_exists']         = 'Warning: E-Mail Address is already registered!';
-$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']          = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field']   = '%s required!';
-$_['error_password']       = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']        = 'Password confirmation does not match password!';
-$_['error_agree']          = 'Warning: You must agree to the %s!';
+$_['error_exists']         = 'Uyarı: E-Posta adresi ile daha önce kayıt olunmuştur!';
+$_['error_firstname']      = 'Ad alanı 1 ile 32 karakter arasında olmalı!';
+$_['error_lastname']       = 'Soyad alanı 1 ile 32 karakter arasında olmalı!';
+$_['error_email']          = 'Geçerli bir E-Posta adresi yazınız!';
+$_['error_telephone']      = 'Telefon alanı 3 ile 32 karakter arasında olmalı!';
+$_['error_custom_field']   = '%s gerekli!';
+$_['error_password']       = 'Parolanız 4 ile 20 karakter arasında olmalı!';
+$_['error_confirm']        = 'Parolanız birbiriyle uyuşmuyor!';
+$_['error_agree']          = 'Uyarı: %s kabul etmelisiniz!';

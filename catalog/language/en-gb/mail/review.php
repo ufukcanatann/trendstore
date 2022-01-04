@@ -1,8 +1,10 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_subject']  = '%s - Product Review';
-$_['text_waiting']  = 'You have a new product review waiting.';
-$_['text_product']  = 'Product: %s';
-$_['text_reviewer'] = 'Reviewer: %s';
-$_['text_rating']   = 'Rating: %s';
-$_['text_review']   = 'Review Text:';
+$_['text_subject']  = '%s - Ürüne Yorum Yapıldı';
+$_['text_waiting']  = 'Onay bekleyen yeni bir ürün yorumu var.';
+$_['text_product']  = 'Ürün: %s';
+$_['text_reviewer'] = 'Yorum Yapan: %s';
+$_['text_rating']   = 'Verilen Oy: %s';
+$_['text_review']   = 'Yapılan yorum:';

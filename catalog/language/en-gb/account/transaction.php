@@ -1,15 +1,16 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']      = 'Your Transactions';
-$_['cheading_title']      = 'Your Transactions';
+$_['heading_title']      = 'Bakiye İşlemlerim';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Amount (%s)';
+$_['column_date_added']  = 'Ekleme Tarihi';
+$_['column_description'] = 'Açıklama';
+$_['column_amount']      = 'Tutar (%s)';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_transaction']   = 'Your Transactions';
-$_['text_total']         = 'Your current balance is:';
-$_['ctext_empty']         = 'You do not have any transactions!';
+$_['text_account']       = 'Hesabım';
+$_['text_transaction']   = 'Bakiye İşlemlerim';
+$_['text_total']         = 'Geçerli bakiyeniz:';
+$_['text_empty']         = 'Herhangi bir işleminiz yok!';

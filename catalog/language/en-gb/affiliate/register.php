@@ -1,53 +1,54 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']             = 'Affiliate Program';
-$_['cheading_title']             = 'Affiliate Program';
+$_['heading_title']             = 'Yeni Ortak - Ortaklık Programı';
 
 // Text
-$_['text_account']              = 'Account';
-$_['text_register']             = 'Affiliate Register';
-$_['text_account_already']      = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
-$_['text_signup']               = 'To create an affiliate account, fill in the form below ensuring you complete all the required fields:';
-$_['text_your_details']         = 'Your Personal Details';
-$_['text_your_address']         = 'Your Address Details';
-$_['text_your_affiliate']       = 'Your Affiliate Information';
-$_['text_your_password']        = 'Your Password';
-$_['text_cheque']               = 'Cheque';
+$_['text_account']              = 'Ortaklık Hesabı';
+$_['text_register']             = 'Yeni Ortak';
+$_['text_account_already']      = 'Daha önceden ortaklık hesabı açtıysanız, lütfen giriş sayfasından <a href="%s">oturum açınız</a>.';
+$_['text_signup']               = 'Yeni bir ortaklık hesabı açmak için aşağıdaki tüm gerekli alanları doldurunuz:';
+$_['text_your_details']         = 'Kişisel Bilgileriniz';
+$_['text_your_address']         = 'Adres Bilgileriniz';
+$_['text_your_affiliate']       = 'Ortaklık Bilgileri';
+$_['text_your_password']        = 'Parolanız';
+$_['text_cheque']               = 'Çek';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
-$_['text_agree']                = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_bank']                 = 'Banka Havalesi/EFT';
+$_['text_agree']                = '<a href="%s" class="agree"><b>%s</b></a>\'nı okudum ve kabul ediyorum';
 
 // Entry
-$_['entry_customer_group']      = 'Customer Group';
-$_['entry_firstname']           = 'First Name';
-$_['entry_lastname']            = 'Last Name';
-$_['entry_email']               = 'E-Mail';
-$_['entry_telephone']           = 'Telephone';
-$_['entry_company']             = 'Company';
-$_['entry_website']             = 'Web Site';
-$_['entry_tax']                 = 'Tax ID';
-$_['entry_payment']             = 'Payment Method';
-$_['entry_cheque']              = 'Cheque Payee Name';
-$_['entry_paypal']              = 'PayPal Email Account';
-$_['entry_bank_name']           = 'Bank Name';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
-$_['entry_bank_swift_code']     = 'SWIFT Code';
-$_['entry_bank_account_name']   = 'Account Name';
-$_['entry_bank_account_number'] = 'Account Number';
-$_['entry_password']            = 'Password';
-$_['entry_confirm']             = 'Password Confirm';
+$_['entry_customer_group']      = 'Müşteri Grubu';
+$_['entry_firstname']           = 'Adınız';
+$_['entry_lastname']            = 'Soyadınız';
+$_['entry_email']               = 'E-Posta';
+$_['entry_telephone']           = 'Telefon';
+$_['entry_company']             = 'Şirket Adı';
+$_['entry_website']             = 'Web Siteniz';
+$_['entry_tax']                 = 'T.C. / Vergi No';
+$_['entry_payment']             = 'Ödeme Metodu';
+$_['entry_cheque']              = 'Çek Alacaklı Adı';
+$_['entry_paypal']              = 'PayPal E-Posta';
+$_['entry_bank_name']           = 'Banka Adı';
+$_['entry_bank_branch_number']  = 'Şube Numarası';
+$_['entry_bank_swift_code']     = 'SWIFT Kodu';
+$_['entry_bank_account_name']   = 'Hesap Adı';
+$_['entry_bank_account_number'] = 'IBAN/Hesap Numarası';
+$_['entry_password']            = 'Parola';
+$_['entry_confirm']             = 'Parola(tekar)';
 
 // Error
-$_['error_exists']              = 'Warning: E-Mail Address is already registered!';
-$_['error_firstname']           = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']            = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']               = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']           = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field']        = '%s required!';
-$_['error_cheque']              = 'Cheque Payee Name required!';
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
-$_['error_bank_account_name']   = 'Account Name required!';
-$_['error_bank_account_number'] = 'Account Number required!';
-$_['error_password']            = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']             = 'Password confirmation does not match password!';
-$_['error_agree']               = 'Warning: You must agree to the %s!';
+$_['error_exists']              = 'Uyarı: E-Posta adresi ile daha önce kayıt olunmuştur!';
+$_['error_firstname']           = 'Ad alanı 1 ile 32 karakter arasında olmalı!';
+$_['error_lastname']            = 'Soyad alanı 1 ile 32 karakter arasında olmalı!';
+$_['error_email']               = 'Geçerli bir E-Posta adresi yazınız!';
+$_['error_telephone']           = 'Telefon alanı 3 ile 32 karakter arasında olmalı!';
+$_['error_custom_field']        = '%s gerekli!';
+$_['error_cheque']              = 'Alacaklı adı gerekli!';
+$_['error_paypal']              = 'PayPal e-posta adresi geçersiz!';
+$_['error_bank_account_name']   = 'Hesap adı gerekli!';
+$_['error_bank_account_number'] = 'Hesap numarası gerekli!';
+$_['error_password']            = 'Parolanız 4 ile 20 karakter arasında olmalı!';
+$_['error_confirm']             = 'Parolanız birbiriyle uyuşmuyor!';
+$_['error_agree']               = 'Uyarı: %s kabul etmelisiniz!';

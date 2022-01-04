@@ -1,18 +1,20 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_address']       = 'Success: Shipping address has been set!';
-$_['text_method']        = 'Success: Shipping method has been set!';
+$_['text_address']       = 'Başarılı: Teslimat adresi ayarlandı!';
+$_['text_method']        = 'Başarılı: Kargo metodu ayarlandı!';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']         = 'City must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters for this country!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
-$_['error_address']      = 'Warning: Shipping address required!';
-$_['error_method']       = 'Warning: Shipping method required!';
-$_['error_no_shipping']  = 'Warning: No Shipping options are available!';
+$_['error_permission']   = 'Uyarı: API erişim iznine sahip değilsiniz!';
+$_['error_firstname']    = 'Adınız 1 ile 32 karakter arasında olmalıdır!';
+$_['error_lastname']     = 'Soyadınız 1 ile 32 karakter arasında olmalıdır!';
+$_['error_address_1']    = 'Adres 1 3 ile 128 karakter arasında olmalıdır!';
+$_['error_city']         = 'Şehir 3 ile 128 karakter arasında olmalıdır!';
+$_['error_postcode']     = 'Bu ülke için posta kodu 2 ile 10 karakter arasında olmalı!';
+$_['error_country']      = 'Lütfen bir ülke seçiniz';
+$_['error_zone']         = 'Lütfen bir şehir seçiniz!';
+$_['error_custom_field'] = '%s gerekli!';
+$_['error_address']      = 'Uyarı: Kargo adresi gerekli!';
+$_['error_method']       = 'Uyarı: Kargo metodu gerekli!';
+$_['error_no_shipping']  = 'Uyarı: Kullanılabilir kargo seçeneği yok!';

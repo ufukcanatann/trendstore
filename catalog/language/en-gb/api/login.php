@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success'] = 'Success: API session successfully started!';
+$_['text_success'] = 'Başarılı: API oturumu başarıyla başlatıldı!';
 
 // Error
-$_['error_key']    = 'Warning: Incorrect API Key!';
-$_['error_ip']     = 'Warning: Your IP %s is not allowed to access this API!';
+$_['error_key']    = 'Uyarı: API anahtarı yanlış!';
+$_['error_ip']     = 'Uyarı: IP %s adresinizden API erişimine izin verilmiyor!';

@@ -1,15 +1,17 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_customer']   = 'New customer';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_subject']        = '%s - Kayıt Olduğunuz için Teşekkürler';
+$_['text_welcome']        = '%s sitemize kayıt olduğunuz için teşekkür ederiz!';
+$_['text_login']          = 'Hesabınız başarılı bir şekilde oluşturulmuştur. E-Posta adresinizi ve şifrenizi kullanarak giriş yapabilirsiniz. Bunun için web sitemizi ziyaret edebilir veya aşağıdaki adresi kullanarak giriş yapabilirsiniz:';
+$_['text_approval']       = 'Giriş yapmadan önce hesabınızın onaylanması gerekmektedir. Onaylandıktan sonra aşağıdaki URL kullanarak giriş yapabilirsiniz:';
+$_['text_service']       = 'Giriş yaptıktan sonra, hesap bilgilerinizi düzenleyebilir veya geçmiş siparişlerinizi inceleyebilirsiniz.';
+$_['text_thanks']         = 'Teşekkürler,';
+$_['text_new_customer']   = 'Yeni Müşteri';
+$_['text_signup']         = 'Yeni bir müşteri kayıt oldu:';
+$_['text_customer_group'] = 'Müşteri Grubu:';
+$_['text_firstname']      = 'Adı:';
+$_['text_lastname']       = 'Soyadı:';
+$_['text_email']          = 'E-Posta:';
+$_['text_telephone']      = 'Telefon:';

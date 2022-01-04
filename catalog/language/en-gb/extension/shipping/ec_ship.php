@@ -1,4 +1,6 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
 $_['text_title']                               = 'EC-Ship';
 $_['text_weight']                              = 'Weight:';

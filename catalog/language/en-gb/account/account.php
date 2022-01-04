@@ -1,26 +1,28 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']       = 'My Account';
+$_['heading_title']       = 'Hesabım';
 
 // Text
-$_['text_account']        = 'Account';
-$_['text_my_account']     = 'My Account';
-$_['text_my_orders']      = 'My Orders';
-$_['text_my_affiliate']   = 'My Affiliate Account';
-$_['text_my_newsletter']  = 'Newsletter';
-$_['text_edit']           = 'Edit your account information';
-$_['text_password']       = 'Change your password';
-$_['text_address']        = 'Modify your address book entries';
-$_['text_credit_card']    = 'Manage Stored Credit Cards';
-$_['text_wishlist']       = 'Modify your wish list';
-$_['text_order']          = 'View your order history';
-$_['text_download']       = 'Downloads';
-$_['text_reward']         = 'Your Reward Points';
-$_['text_return']         = 'View your return requests';
-$_['text_transaction']    = 'Your Transactions';
-$_['text_newsletter']     = 'Subscribe / unsubscribe newsletter';
-$_['text_recurring']      = 'Recurring payments';
-$_['text_transactions']   = 'Transactions';
-$_['text_affiliate_add']  = 'Register for an affiliate account';
-$_['text_affiliate_edit'] = 'Edit your affiliate information';
-$_['text_tracking']       = 'Custom Affiliate Tracking Code';
+$_['text_account']        = 'Hesabım';
+$_['text_my_account']     = 'Hesabım';
+$_['text_my_orders']      = 'Siparişlerim';
+$_['text_my_affiliate']   = 'Ortaklık Hesabım';
+$_['text_my_newsletter']  = 'Bülten Aboneliği';
+$_['text_edit']           = 'Hesap Bilgilerimi Düzenle';
+$_['text_password']       = 'Parola Değiştir';
+$_['text_address']        = 'Adres Defterlerini Düzenle';
+$_['text_credit_card']    = 'Kayıtlı Kredi Kartları';
+$_['text_wishlist']       = 'Alışveriş Listemi Düzenle';
+$_['text_order']          = 'Siparişlerim';
+$_['text_download']       = 'Dosyalarım';
+$_['text_reward']         = 'Puanlarım';
+$_['text_return']         = 'İade Taleplerim';
+$_['text_transaction']    = 'Bakiye İşlemlerim';
+$_['text_newsletter']     = 'Bültene Abone Ol / Kaldır.';
+$_['text_recurring']      = 'Otomatik Ödemeler';
+$_['text_transactions']   = 'İşlemler';
+$_['text_affiliate_add']  = 'Ortaklık hesabı için kayıt ol';
+$_['text_affiliate_edit'] = 'Ortaklık bilgilerini düzenle';
+$_['text_tracking']       = 'Özel Ortaklık Takip Kodu';

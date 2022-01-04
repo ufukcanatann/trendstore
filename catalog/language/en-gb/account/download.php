@@ -1,15 +1,16 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']     = 'Account Downloads';
-$_['cheading_title']     = 'Account Downloads';
+$_['heading_title']     = 'Dosyalarım';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_downloads']    = 'Downloads';
-$_['ctext_empty']        = 'You have not made any previous downloadable orders!';
+$_['text_account']      = 'Hesabım';
+$_['text_downloads']    = 'Dosyalarım';
+$_['text_empty']        = 'Daha önce dosya içeren bir ürün siparişi vermediniz!';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_name']       = 'Name';
-$_['column_size']       = 'Size';
-$_['column_date_added'] = 'Date Added';
+$_['column_order_id']   = 'Sipariş No';
+$_['column_name']       = 'Adı';
+$_['column_size']       = 'Boyutu';
+$_['column_date_added'] = 'Ekleme Tarihi';

@@ -1,14 +1,16 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Kupon Kodu Kullan';
 
 // Text
-$_['text_coupon']   = 'Coupon (%s)';
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_coupon']   = 'Kupon (%s)';
+$_['text_success']  = 'Başarılı: İndirim kuponu septinize başarıyla uygulandı!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'Kupon kodunuzu buraya girin';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';
+$_['error_coupon']  = 'Uyarı: Kupon kodunuz geçersiz, süresi ya da kullanım limiti dolmuş!';
+$_['error_empty']   = 'Uyarı: Lütfen bir kupon kodu giriniz!';

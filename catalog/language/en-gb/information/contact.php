@@ -1,27 +1,29 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']  = 'Contact Us';
+$_['heading_title']  = 'İletişim';
 
 // Text
-$_['text_location']  = 'Our Location';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address';
-$_['text_telephone'] = 'Telephone';
-$_['text_fax']       = 'Fax';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_success']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_location']  = 'Konum Bilgilerimiz';
+$_['text_store']     = 'Mağazalarımız';
+$_['text_contact']   = 'İletişim Formu';
+$_['text_address']   = 'Adres:';
+$_['text_telephone'] = 'Telefon:';
+$_['text_fax']       = 'Faks:';
+$_['text_open']      = 'Çalışma Saatleri';
+$_['text_comment']   = 'Açıklamalar';
+$_['text_success']   = '<p>Mesajınız başarıyla gönderildi!</p><p>En kısa sürede size geri dönüş yapılacaktır.</p>';
 
 // Entry
-$_['entry_name']     = 'Your Name';
-$_['entry_email']    = 'E-Mail Address';
-$_['entry_enquiry']  = 'Enquiry';
+$_['entry_name']     = 'Adınız';
+$_['entry_email']    = 'E-Posta';
+$_['entry_enquiry']  = 'Mesajınız';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']  = '%s Mesaj Gönderdi';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+$_['error_name']     = 'Ad 3 ile 32 karakter arasında olmalı!';
+$_['error_email']    = 'E-Posta Adresi geçersiz!';
+$_['error_enquiry']  = 'Mesajınız 10 ile 3000 karakter arasında olmalı!';

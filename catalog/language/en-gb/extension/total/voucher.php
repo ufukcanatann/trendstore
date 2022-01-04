@@ -1,14 +1,16 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title'] = 'Use Gift Certificate';
+$_['heading_title'] = 'Hediye Çeki Kullan';
 
 // Text
-$_['text_voucher']  = 'Gift Certificate (%s)';
-$_['text_success']  = 'Success: Your gift certificate discount has been applied!';
+$_['text_voucher']  = 'Hediye Çeki (%s)';
+$_['text_success']  = 'Başarılı: Hediye çeki sepetinize başarıyla uygulandı!';
 
 // Entry
-$_['entry_voucher'] = 'Enter your gift certificate code here';
+$_['entry_voucher'] = 'Hediye çeki kodunuzu buraya giriniz';
 
 // Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
+$_['error_voucher'] = 'Uyarı: Hediye çeki geçersiz ya da bakiye kadar kullanıldı!';
+$_['error_empty']   = 'Uyarı: Lütfen bir hediye çeki kodu giriniz!';

@@ -1,7 +1,9 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_title']       = 'Cheque / Money Order';
-$_['text_instruction'] = 'Cheque / Money Order Instructions';
-$_['text_payable']     = 'Make Payable To: ';
-$_['text_address']     = 'Send To: ';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';
+$_['text_title']       = 'Çek / Havale';
+$_['text_instruction'] = 'Çek / Havale Talimatları';
+$_['text_payable']     = 'Ödenecek Kişi:';
+$_['text_address']     = 'Adres:';
+$_['text_payment']     = 'Siparişinizi verdikten sonraki 5 iş günü içinde çeki göndermediniz taktirde siparişiniz iptal olur.';

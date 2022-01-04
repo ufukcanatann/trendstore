@@ -1,7 +1,9 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title'] = 'Choose a Store';
+$_['heading_title'] = 'Mağaza Seçiniz';
 
 // Text
-$_['text_default']  = 'Default';
-$_['text_store']    = 'Please choose the store you wish to visit.';
+$_['text_default']  = 'Varsayılan';
+$_['text_store']    = 'Ziyaret etmek istediğiniz mağazayı seçiniz.';

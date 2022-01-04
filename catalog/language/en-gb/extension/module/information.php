@@ -1,7 +1,9 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title'] = 'Information';
+$_['heading_title'] = 'Bilgiler';
 
 // Text
-$_['text_contact']  = 'Contact Us';
-$_['text_sitemap']  = 'Site Map';
+$_['text_contact']  = 'İletişim';
+$_['text_sitemap']  = 'Site Haritası';

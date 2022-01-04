@@ -1,21 +1,22 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title'] = 'My Wish List';
-$_['cheading_title'] = 'My Wish List';
+$_['heading_title'] = 'Alışveriş Listem';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_instock']  = 'In Stock';
-$_['text_wishlist'] = 'Wish List (%s)';
-$_['text_login']    = '<h2>Success !!</h2>You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']  = '<h2>Success!!</h2> You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']   = '<h2>Success!!</h2> You have modified your wish list!';
-$_['ctext_empty']    = 'Your wish list is empty.';
+$_['text_account']  = 'Hesabım';
+$_['text_instock']  = 'Stokta Var';
+$_['text_wishlist'] = 'A. Listem (%s)';
+$_['text_login']    = 'Alışveriş listenizi kaydetmek için <a href="%s">oturum açın</a> ya da <a href="%s">yeni hesap</a> oluşturun. <a href="%s">%s</a> ürünü <a href="%s">alışveriş listenize</a> eklediniz!';
+$_['text_success']  = 'Başarılı: <a href="%s">%s</a> ürünü <a href="%s">alışveriş</a> listenize eklendi!';
+$_['text_remove']   = 'Başarılı: Alışveriş listeniz değiştirildi';
+$_['text_empty']    = 'Alışveriş listeniz boş.';
 
 // Column
-$_['column_image']  = 'Image';
-$_['column_name']   = 'Product Name';
-$_['column_model']  = 'Model';
-$_['column_stock']  = 'Stock';
-$_['column_price']  = 'Unit Price';
-$_['column_action'] = 'Action';
+$_['column_image']  = 'Resim';
+$_['column_name']   = 'Ürün Adı';
+$_['column_model']  = 'Kodu';
+$_['column_stock']  = 'Stok';
+$_['column_price']  = 'Fiyatı';
+$_['column_action'] = 'Eylem';

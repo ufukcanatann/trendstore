@@ -1,22 +1,23 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']   = 'Forgot Your Password?';
-$_['cheading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = 'Parolamı Unutum?';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_success']    = 'An email with a confirmation link has been sent your email address.';
+$_['text_account']    = 'Hesabım';
+$_['text_forgotten']  = 'Parolamı Unuttum';
+$_['text_your_email'] = 'E-Posta Adresiniz';
+$_['text_email']      = 'Sıfırlama bağlantısı için kayıtlı e-posta adresinizi yazınız.';
+$_['text_success']    = 'E-Posta adresinize parola sıfırlama bağlantısı gönderildi.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address';
-$_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+$_['entry_email']     = 'E-Posta Adresiniz';
+$_['entry_password']  = 'Yeni Parolanız';
+$_['entry_confirm']   = 'Yeni Parola(tekrar)';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_approved']  = 'Warning: Your account requires approval before you can login.';
-$_['error_password']  = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+$_['error_email']     = 'Uyarı: E-Posta adresi bulunamadı. Lütfen tekrar deneyiniz!';
+$_['error_approved']  = 'Uyarı: Giriş yapmadan önce hesabınızın onaylanması gereklidir!';
+$_['error_password']  = 'Parolanız 4 ile 20 karakter arasında olmalıdır!';
+$_['error_confirm']   = 'Yazdığınız parolar birbiri ile uyuşmuyor!';

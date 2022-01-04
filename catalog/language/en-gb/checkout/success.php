@@ -1,11 +1,12 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
-$_['cheading_title']        = 'Your order has been placed!';
+$_['heading_title'] = 'Siparişiniz başarıyla oluşturuldu!';
 
 // Text
-$_['text_basket']          = 'Shopping Cart';
-$_['text_checkout']        = 'Checkout';
-$_['text_success']         = 'Success';
-$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_basket']   = 'Sepetim';
+$_['text_checkout'] = 'Kasaya Git';
+$_['text_success']  = 'Başarılı';
+$_['text_customer'] = '<p>Bizi tercih ettiğiniz için teşekkür ederiz.</p><p>Hesabınızı görüntülemek için <a href="%s">buraya</a>, sipariş geçmişiniz için <a href="%s">buraya</a> tıklayınız.</p><p>Eğer dosya içeren ürün satın aldıysanız, <a href="%s">Dosyalarım</a> sayfasına bakınız.</p><p>Herhangi bir sorunuz varsa <a href="%s">buradan</a> iletişime geçebilirsiniz.</p>';
+$_['text_guest']    = '<p>Bizi tercih ettiğiniz için teşekkür ederiz.</p><p>Herhangi bir sorunuz varsa <a href="%s">buradan</a> iletişime geçebilirsiniz.</p>';

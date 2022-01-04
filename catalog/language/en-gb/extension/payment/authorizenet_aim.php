@@ -1,4 +1,6 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
 $_['text_title']           = 'Credit Card / Debit Card (Authorize.Net)';
 $_['text_credit_card']     = 'Credit Card Details';

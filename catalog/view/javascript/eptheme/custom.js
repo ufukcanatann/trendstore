@@ -167,7 +167,7 @@ $(document).ready(function(){
         $('.moremenuh').each(function(i,n){
             $('moremenuh').addClass(i);
             if(i == number_blocks) {
-            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">More Categories<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
+            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">Daha Fazla Kategori<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
             }
             if(i> number_blocks) {
             $(this).addClass('wr_hide_menu').hide();
@@ -193,7 +193,7 @@ $(document).ready(function(){
         $('.moremenuh').each(function(i,n){
             $('moremenuh').addClass(i);
             if(i == number_blocks) {
-            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">More Categories<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
+            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">Daha Fazla Kategori<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
             }
             if(i> number_blocks) {
             $(this).addClass('wr_hide_menu').hide();
@@ -220,7 +220,7 @@ $(document).ready(function(){
         $('.moremenuh').each(function(i,n){
             $('moremenuh').addClass(i);
             if(i == number_blocks) {
-            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">More Categories<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
+            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">Daha Fazla Kategori<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
             }
             if(i> number_blocks) {
             $(this).addClass('wr_hide_menu').hide();
@@ -246,7 +246,7 @@ $(document).ready(function(){
         $('.moremenuh').each(function(i,n){
             $('moremenuh').addClass(i);
             if(i == number_blocks) {
-            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">More Categories<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
+            $(this).append('<li class="view_more my-menu"><a class="dropdown-toggle">Daha Fazla Kategori<i class="fa fa-plus thumb_img pull-img"></i></a></li>');
             }
             if(i> number_blocks) {
             $(this).addClass('wr_hide_menu').hide();

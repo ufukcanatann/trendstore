@@ -1,17 +1,18 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']  = 'Change Password';
-$_['cheading_title']  = 'Change Password';
+$_['heading_title']  = 'Parola Değiştir';
 
 // Text
-$_['text_account']   = 'Account';
-$_['text_password']  = 'Your Password';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_account']   = 'Hesabım';
+$_['text_password']  = 'Parolanız';
+$_['text_success']   = 'Başarılı: Parolanız başarılı bir şekilde güncellendi.';
 
 // Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Password Confirm';
+$_['entry_password'] = 'Parola';
+$_['entry_confirm']  = 'Parola (Tekrar)';
 
 // Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password confirmation does not match password!';
+$_['error_password'] = 'Parolanız 4 ile 20 karakter arasında olmalı!';
+$_['error_confirm']  = 'Parolanız birbiriyle uyuşmuyor!';

@@ -1,21 +1,23 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Hesabım';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_reward']      = 'Reward Points';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';
+$_['text_register']    = 'Kayıt Ol';
+$_['text_login']       = 'Oturum Aç';
+$_['text_logout']      = 'Çıkış Yap';
+$_['text_forgotten']   = 'Parolamı Unuttum';
+$_['text_account']     = 'Hesabım';
+$_['text_edit']        = 'Bilgilerimi Düzenle';
+$_['text_password']    = 'Parola Değiştir';
+$_['text_address']     = 'Adres Defterlerim';
+$_['text_wishlist']    = 'Alışveriş Listem';
+$_['text_order']       = 'Siparişlerim';
+$_['text_download']    = 'Dosyalarım';
+$_['text_reward']      = 'Puanlarım';
+$_['text_return']      = 'İade Taleplerim';
+$_['text_transaction'] = 'Bakiye İşlemlerim';
+$_['text_newsletter']  = 'Bülten Aboneliği';
+$_['text_recurring']   = 'Otomatik Ödemeler';

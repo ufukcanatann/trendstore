@@ -1,17 +1,18 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_home']          = 'Home';
-$_['text_wishlist']      = 'Wishlist (%s)';
-$_['text_shopping_cart'] = 'Shopping Cart';
-$_['text_category']      = 'Categories';
-$_['text_account']       = 'My Account';
-$_['text_register']      = 'Register';
-$_['text_login']         = 'Login';
-$_['text_order']         = 'Order History';
-$_['text_transaction']   = 'Transactions';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
-$_['text_search']        = 'Search';
-$_['text_all']           = 'Show All';
-$_['text_comparepro']    = 'compare';
+$_['text_home']          = 'Anasayfa';
+$_['text_wishlist']      = 'A. Listem (%s)';
+$_['text_shopping_cart'] = 'Sepetim';
+$_['text_category']      = 'Kategoriler';
+$_['text_account']       = 'Hesabım';
+$_['text_register']      = 'Kayıt Ol';
+$_['text_login']         = 'Oturum Aç';
+$_['text_order']         = 'Sipariş Geçmişi';
+$_['text_transaction']   = 'Bakiye İşlemlerim';
+$_['text_download']      = 'Dosyalarım';
+$_['text_logout']        = 'Çıkış Yap';
+$_['text_checkout']      = 'Kasaya Git';
+$_['text_search']        = 'Ara';
+$_['text_all']           = 'Tümü Göster';

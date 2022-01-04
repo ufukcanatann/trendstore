@@ -1,27 +1,28 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['express_text_title']      = 'Confirm order';
+$_['express_text_title']      = 'Sipariş Onayla';
 
 // Text
 $_['text_title']              = 'PayPal Express Checkout';
-$_['text_cart']               = 'Shopping Cart';
-$_['text_shipping_updated']   = 'Shipping service updated';
-$_['text_trial']              = '%s every %s %s for %s payments then ';
-$_['text_recurring']          = '%s every %s %s';
-$_['text_recurring_item']     = 'Recurring Item';
-$_['text_length']             = ' for %s payments';
+$_['text_cart']               = 'Alışveriş Sepeti';
+$_['text_shipping_updated']   = 'Kargo servivsi güncellendi';
+$_['text_trial']              = '%s her %s %s %s ödemelerinde sonra ';
+$_['text_recurring']          = '%s her %s %s';
+$_['text_recurring_item']     = 'Abonelik';
+$_['text_length']             = '  %s ödemeler için';
 
 // Entry
-$_['express_entry_coupon']    = 'Enter your coupon here:';
+$_['express_entry_coupon']    = 'Kupon kodunuzu buraya girin:';
 
 // Button
-$_['button_express_coupon']   = 'Add';
-$_['button_express_confirm']  = 'Confirm';
-$_['button_express_login']    = 'Continue to PayPal';
-$_['button_express_shipping'] = 'Update shipping';
+$_['button_express_coupon']   = 'Ekle';
+$_['button_express_confirm']  = 'Onayla';
+$_['button_express_login']    = 'PayPal ile Devam Et';
+$_['button_express_shipping'] = 'Kargoyu güncelle';
 
 // Error
-$_['error_heading_title']	  = 'There was an error';
-$_['error_too_many_failures'] = 'Your payment has failed too many times';
-$_['error_unavailable'] 	  = 'Please use the full checkout with this order';
-$_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_heading_title']     = 'Bir hata oluştu';
+$_['error_too_many_failures'] = 'Ödemeniz çok kez başarısız oldu';
+$_['error_no_shipping']    	  = 'Uyarı: Kullanılabilir kargo seçeneği yok. Yardım için lütfen <a href="%s">bizimle iletişime</a> geçin!';

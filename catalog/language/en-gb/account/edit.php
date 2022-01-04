@@ -1,24 +1,25 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']      = 'My Account Information';
-$_['cheading_title']      = 'My Account Information';
+$_['heading_title']      = 'Hesap Bilgilerim';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_edit']          = 'Edit Information';
-$_['text_your_details']  = 'Your Personal Details';
-$_['text_success']       = 'Success: Your account has been successfully updated.';
+$_['text_account']       = 'Hesabım';
+$_['text_edit']          = 'Bilgilerimi Düzenle';
+$_['text_your_details']  = 'Kişisel Bilgileriniz';
+$_['text_success']       = 'Başarılı: Hesabınız başarılı bir şekilde güncellendi!';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Telephone';
+$_['entry_firstname']    = 'Adınız';
+$_['entry_lastname']     = 'Soyadınız';
+$_['entry_email']        = 'E-Posta';
+$_['entry_telephone']    = 'Telefon';
 
 // Error
-$_['error_exists']       = 'Warning: E-Mail address is already registered!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+$_['error_exists']       = 'Uyarı: E-Posta adresi ile daha önce kayıt olunmuştur!';
+$_['error_firstname']    = 'Ad alanı 1 ile 32 karakter arasında olmalı!';
+$_['error_lastname']     = 'Soyad 1 ile 32 karakter arasında olmalı!';
+$_['error_email']        = 'Geçerli bir E-Posta adresi yazınız!';
+$_['error_telephone']    = 'Telefon alanı 3 ile 32 karakter arasında olmalı!';
+$_['error_custom_field'] = '%s gerekli!';

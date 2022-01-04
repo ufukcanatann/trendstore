@@ -1,9 +1,11 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_subject']      = '%s - Order Update %s';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
-$_['text_order_status'] = 'Your order has been updated to the following status:';
-$_['text_comment']      = 'The comments for your order are:';
-$_['text_link']         = 'To view your order click on the link below:';
-$_['text_footer']       = 'Please reply to this email if you have any questions.';
+$_['text_subject']       = '%s - %s Nolu Siparişinizin Durumu Güncellendi';
+$_['text_order_id']      = 'Sipariş No:';
+$_['text_date_added']    = 'Sipariş Tarihi:';
+$_['text_order_status']  = 'Siparişiniz aşağıdaki duruma güncellendi:';
+$_['text_comment']       = 'Siparişiniz ile ilgili açıklamalar:';
+$_['text_link']          = 'Siparişinizi görüntülemek için aşağıdaki bağlatıya tıklayınız:';
+$_['text_footer']        = 'Herhangi bir sorunuz varsa bu e-postayı yanıtlayınız.';

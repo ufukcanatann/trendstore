@@ -1,6 +1,8 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_subject']  = '%s - Password reset request';
-$_['text_greeting'] = 'A new password was requested for %s customer account.';
-$_['text_change']   = 'To reset your password click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was:';
+$_['text_subject']  = '%s - Parola sıfırlama isteği';
+$_['text_greeting'] = '%s müşteri hesabınız için parola sıfırlama talebinde bulundunuz.';
+$_['text_change']   = 'Parolanızı sıfırlamak için aşağıdaki bağlantıya tıklayın:';
+$_['text_ip']       = 'Parola sıfırlama isteğiniz bu IP adresinden yapıldı: %s';

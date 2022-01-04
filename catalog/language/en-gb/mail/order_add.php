@@ -1,27 +1,29 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_subject']          = '%s - Order %s';
-$_['text_greeting']         = 'Thank you for your interest in %s products. Your order has been received and will be processed once payment has been confirmed.';
-$_['text_link']             = 'To view your order click on the link below:';
-$_['text_order_detail']     = 'Order Details';
-$_['text_instruction']      = 'Instructions';
-$_['text_order_id']         = 'Order ID:';
-$_['text_date_added']       = 'Date Added:';
-$_['text_order_status']     = 'Order Status:';
-$_['text_payment_method']   = 'Payment Method:';
-$_['text_shipping_method']  = 'Shipping Method:';
-$_['text_email']            = 'E-mail:';
-$_['text_telephone']        = 'Telephone:';
-$_['text_ip']               = 'IP Address:';
-$_['text_payment_address']  = 'Payment Address';
-$_['text_shipping_address'] = 'Shipping Address';
-$_['text_products']         = 'Products';
-$_['text_product']          = 'Product';
-$_['text_model']            = 'Model';
-$_['text_quantity']         = 'Quantity';
-$_['text_price']            = 'Price';
-$_['text_order_total']      = 'Order Totals';
-$_['text_total']            = 'Total';
-$_['text_download']         = 'Once your payment has been confirmed you can click on the link below to access your downloadable products:';
-$_['text_comment']          = 'The comments for your order are:';
-$_['text_footer']           = 'Please reply to this e-mail if you have any questions.';
+$_['text_subject']          = '%s - Sipariş %s';
+$_['text_greeting']         = '%s ürünlerimize göstermiş olduğunuz ilgiden dolayı teşekkür ederiz. Ödemeniz onaylandıktan sonra siparişiniz işleme konulacaktır.';
+$_['text_link']             = 'Siparişinizi görüntülemek için aşağıdaki bağlatıya tıklayınız:';
+$_['text_order_detail']     = 'Sipariş Detayları';
+$_['text_instruction']      = 'Talimatlar';
+$_['text_order_id']         = 'Sipariş No:';
+$_['text_date_added']       = 'Sipariş Detayları:';
+$_['text_order_status']     = 'Sipariş Durumu:';
+$_['text_payment_method']   = 'Ödeme Metodu:';
+$_['text_shipping_method']  = 'Kargo Metodu:';
+$_['text_email']            = 'E-Posta:';
+$_['text_telephone']        = 'Telefon:';
+$_['text_ip']               = 'IP Adresiniz:';
+$_['text_payment_address']  = 'Fatura Adresi';
+$_['text_shipping_address'] = 'Teslimat Adresi';
+$_['text_products']         = 'Ürünler:';
+$_['text_product']          = 'Ürün';
+$_['text_model']            = 'Ürün Kodu';
+$_['text_quantity']         = 'Adet';
+$_['text_price']            = 'Birim Fiyatı';
+$_['text_order_total']      = 'Sipariş Toplamı:';
+$_['text_total']            = 'Tutarı';
+$_['text_download']         = 'Ödemeniz onaylandıktan sonra dosyalarınıza erişmek için aşağıdaki bağlantıya tıklayabilirsiniz:';
+$_['text_comment']          = 'Siparişiniz ile ilgili açıklamalar:';
+$_['text_footer']           = 'Herhangi bir sorunuz varsa bu e-postayı yanıtlayınız.';

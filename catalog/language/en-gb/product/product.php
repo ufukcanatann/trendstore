@@ -1,51 +1,53 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_search']              = 'Search';
-$_['text_brand']               = 'Brand';
-$_['text_manufacturer']        = 'Brand:';
-$_['text_model']               = 'Product Code:';
-$_['text_reward']              = 'Reward Points:';
-$_['text_points']              = 'Price in reward points:';
-$_['text_stock']               = 'Availability:';
-$_['text_instock']             = 'In Stock';
-$_['text_tax']                 = 'Ex Tax:';
-$_['text_discount']            = ' or more ';
-$_['text_option']              = 'Available Options';
-$_['text_minimum']             = 'This product has a minimum quantity of %s';
-$_['text_reviews']             = '%s reviews';
-$_['text_write']               = 'Write a review';
-$_['text_login']               = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
-$_['text_no_reviews']          = 'There are no reviews for this product.';
-$_['text_note']                = '<span class="text-danger">Note:</span> HTML is not translated!';
-$_['text_success']             = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_related']             = 'Related Products';
-$_['text_tags']                = 'Tags:';
-$_['text_error']               = 'Product not found!';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
+$_['text_search']              = 'Arama';
+$_['text_brand']               = 'Marka';
+$_['text_manufacturer']        = 'Marka:';
+$_['text_model']               = 'Ürün Kodu:';
+$_['text_reward']              = 'Kazanacağınız Puan:';
+$_['text_points']              = 'Satın almak için gerekli puan:';
+$_['text_stock']               = 'Stok Durumu:';
+$_['text_instock']             = 'Stokta var';
+$_['text_tax']                 = 'Vergiler Hariç:';
+$_['text_discount']            = ' adet ve üzeri ';
+$_['text_option']              = 'Mevcut Seçenekler:';
+$_['text_minimum']             = 'Satın alabilmek için asgari adet: %s';
+$_['text_reviews']             = '%s yorum';
+$_['text_write']               = 'Yorum Yap';
+$_['text_login']               = 'Lütfen yorum yazmak için <a href="%s">oturum açın</a> ya da <a href="%s">kayıt olun</a>.';
+$_['text_no_reviews']          = 'Bu ürün için daha önce yorum yapılmadı.';
+$_['text_note']                = '<span class="text-danger">Not:</span> HTML\'e dönüştürülmez!';
+$_['text_share']               = 'Paylaş';
+$_['text_success']             = 'Yorum için teşekkür ederiz. Onaylandıktan sonra yorumunuz yayınlanacaktır.';
+$_['text_related']             = 'Benzer Ürünler';
+$_['text_tags']                = 'Etiketler:';
+$_['text_error']               = 'Ürün bulunamadı!';
+$_['text_payment_recurring']   = 'Ödeme Profili';
+$_['text_trial_description']   = '%s için her %d %s %d ödeme ardından';
+$_['text_payment_description'] = '%s için her %d %s %d ödeme';
+$_['text_payment_cancel']      = '%s için her %d %s iptal ediline dek';
+$_['text_day']                 = 'gün';
+$_['text_week']                = 'hafta';
+$_['text_semi_month']          = 'yarım ay';
+$_['text_month']               = 'ay';
+$_['text_year']                = 'yıl';
 
 // Entry
-$_['entry_qty']                = 'Qty';
-$_['entry_name']               = 'Your Name';
-$_['entry_review']             = 'Your Review';
-$_['entry_rating']             = 'Rating';
-$_['entry_good']               = 'Good';
-$_['entry_bad']                = 'Bad';
+$_['entry_qty']                = 'Adet';
+$_['entry_name']               = 'Adınız';
+$_['entry_review']             = 'Yorumunuz';
+$_['entry_rating']             = 'Oylama';
+$_['entry_good']               = 'İyi';
+$_['entry_bad']                = 'Kötü';
 
 // Tabs
-$_['tab_description']          = 'Description';
-$_['tab_attribute']            = 'Specification';
-$_['tab_review']               = 'Reviews (%s)';
+$_['tab_description']          = 'Açıklama';
+$_['tab_attribute']            = 'Özellikler';
+$_['tab_review']               = 'Yorumlar (%s)';
 
 // Error
-$_['error_name']               = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']               = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']             = 'Warning: Please select a review rating!';
-$_['heading_title']             = 'product not found';
+$_['error_name']               = 'Uyarı: Adınız alanı 3 ile 25 karakter arasında olmalı!';
+$_['error_text']               = 'Uyarı: Yorum alanı 25 ile 1000 karakter arasında olmalı!';
+$_['error_rating']             = 'Uyarı: Lütfen yorumunuz için oylama seçiniz!';

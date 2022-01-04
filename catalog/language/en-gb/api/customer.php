@@ -1,12 +1,12 @@
 <?php
 // Text
-$_['text_success']       = 'You have successfully modified customers';
+$_['text_success']       = 'Müşteri başarıyla güncellendi.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_customer']     = 'You must select a customer!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+$_['error_permission']   = 'Uyarı: API erişim iznine sahip değilsiniz!';
+$_['error_customer']     = 'Bir müşteri seçin!';
+$_['error_firstname']    = 'Adınız 1 ile 32 karakter arasında olmalıdır!';
+$_['error_lastname']     = 'Soyadınız 1 ile 32 karakter arasında olmalıdır!';
+$_['error_email']        = 'E-Posta adresi geçerli değil!';
+$_['error_telephone']    = 'Adınız 3 ile 32 karakter arasında olmalıdır!';
+$_['error_custom_field'] = '%s gerekli!';

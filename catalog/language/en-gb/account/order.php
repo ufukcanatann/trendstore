@@ -1,38 +1,39 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']         = 'Order History';
-$_['cheading_title']         = 'Order History';
+$_['heading_title']         = 'Siparişlerim';
 
 // Text
-$_['text_account']          = 'Account';
-$_['text_order']            = 'Order Information';
-$_['text_order_detail']     = 'Order Details';
-$_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
-$_['text_date_added']       = 'Date Added:';
-$_['text_shipping_address'] = 'Shipping Address';
-$_['text_shipping_method']  = 'Shipping Method:';
-$_['text_payment_address']  = 'Payment Address';
-$_['text_payment_method']   = 'Payment Method:';
-$_['text_comment']          = 'Order Comments';
-$_['text_history']          = 'Order History';
-$_['text_success']          = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['ctext_empty']            = 'You have not made any previous orders!';
-$_['text_error']            = 'The order you requested could not be found!';
+$_['text_account']          = 'Hesabım';
+$_['text_order']            = 'Sipariş Bilgileri';
+$_['text_order_detail']     = 'Sipariş Detayları';
+$_['text_invoice_no']       = 'Fatura No:';
+$_['text_order_id']         = 'Sipariş No:';
+$_['text_date_added']       = 'Ekleme Tarihi:';
+$_['text_shipping_address'] = 'Teslimat Adresi';
+$_['text_shipping_method']  = 'Kargo Metodu:';
+$_['text_payment_address']  = 'Fatura Adresi';
+$_['text_payment_method']   = 'Ödeme Metodu:';
+$_['text_comment']          = 'Sipariş Açıklamaları';
+$_['text_history']          = 'Sipariş Geçmişi';
+$_['text_success']          = 'Başarılı: <a href="%s">%s</a> no siparişinizdeki ürünler <a href="%s">sepetinize</a> eklendi!';
+$_['text_empty']            = 'Daha önce hiç sipariş vermediniz!';
+$_['text_error']            = 'İstediğiniz sipariş bulunamadı!';
 
 // Column
-$_['column_order_id']       = 'Order ID';
-$_['column_customer']       = 'Customer';
-$_['column_product']        = 'No. of Products';
-$_['column_name']           = 'Product Name';
-$_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Price';
-$_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
-$_['column_date_added']     = 'Date Added';
-$_['column_status']         = 'Status';
-$_['column_comment']        = 'Comment';
+$_['column_order_id']       = 'Sipariş No';
+$_['column_customer']       = 'Müşteri';
+$_['column_product']        = 'Ürünler';
+$_['column_name']           = 'Ürün Adı';
+$_['column_model']          = 'Ürün Kodu';
+$_['column_quantity']       = 'Adet';
+$_['column_price']          = 'Birim Fiyatı';
+$_['column_total']          = 'Tutarı';
+$_['column_action']         = 'Eylem';
+$_['column_date_added']     = 'Tarih';
+$_['column_status']         = 'Durumu';
+$_['column_comment']        = 'Açıklama';
 
 // Error
 $_['error_reorder']         = '%s is not currently available to be reordered.';

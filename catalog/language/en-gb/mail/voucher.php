@@ -1,8 +1,10 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Text
-$_['text_subject']  = 'You have been sent a gift certificate from %s';
-$_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
-$_['text_from']     = 'This Gift Certificate has been sent to you by %s';
-$_['text_message']  = 'With a message saying';
-$_['text_redeem']   = 'To redeem this Gift Certificate, write down the redemption code which is <b>%s</b> then click on the the link below and purchase the product you wish to use this gift certificate on. You can enter the gift certificate code on the shopping cart page before you click checkout.';
-$_['text_footer']   = 'Please reply to this e-mail if you have any questions.';
+$_['text_subject']  = '%s tarafından hediye çeki gönderildi.';
+$_['text_greeting'] = 'Tebrikler, %s değerinde bir hediye çeki aldınız.';
+$_['text_from']     = 'Bu hediye çeki %s tarafından gönderildi.';
+$_['text_message']  = 'Birde mesajınız var.';
+$_['text_redeem']   = 'Hediye çeki ile istediğiniz ürünü satın alabilirsiniz. Hediye çekini kullanamak için bu <b>%s</b> bağlantıyı takip edin ve istediğiniz ürünü sepete ekleyiniz ve kasaya gitmenden önce alışveriş sepeti sayfasında bu hediye çekini kullanabilirsiniz.';
+$_['text_footer']   = 'Lütfen herhangi bir sorunuz varsa bu e-posta mesajını yanıtlayınız.';

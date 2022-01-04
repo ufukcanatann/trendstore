@@ -1,15 +1,16 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']      = 'Your Reward Points';
-$_['cheading_title']      = 'Your Reward Points';
+$_['heading_title']      = 'Puanlarım';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_points']      = 'Points';
+$_['column_date_added']  = 'Ekleme Tarihi';
+$_['column_description'] = 'Açıklama';
+$_['column_points']      = 'Puan';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_reward']        = 'Reward Points';
-$_['text_total']         = 'Your total number of reward points is:';
-$_['ctext_empty']         = 'You do not have any reward points!';
+$_['text_account']       = 'Hesabım';
+$_['text_reward']        = 'Puanlarım';
+$_['text_total']         = 'Toplam puanınız:';
+$_['text_empty']         = 'Hiç puanınız yok!';

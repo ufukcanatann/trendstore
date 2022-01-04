@@ -1,23 +1,24 @@
 <?php
+/* Turkceye Ceviren eka7a - http://e-piksel.com */
+
 // Heading
-$_['heading_title']                 = 'Affiliate Program';
-$_['cheading_title']                 = 'Affiliate Program';
+$_['heading_title']                 = 'Ortaklık Programı';
 
 // Text
-$_['text_account']                  = 'Account';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Forgotten Password';
+$_['text_account']                  = 'Ortaklık Hesabım';
+$_['text_login']                    = 'Oturum Açın';
+$_['text_description']              = '<p>%s ortaklık programına kayıt olmak ücretsizdir. Oluşturacağınız takip kodunu kendi web sitenizde, sosyal ağ hesaplarınızda ya da her hangi bir yerde paylaşabilirsiniz. Paylaştığınız takip kodu ile gelen müşteriler %s sitesinde bulunan ürünleri satın aldığında, komisyon oranına göre sizde gelir elde edersiniz. Şu anki geçerli komisyon oranımız %s\'dir.</p><p>Daha fazla bilgi için, Ortaklık Programı Kullanımı &amp; Koşullarına bakabilirsiniz.</p>';
+$_['text_new_affiliate']            = 'Yeni Ortak';
+$_['text_register_account']         = '<p>Ortak değilim</p><p>Yeni ortaklık hesabı oluşturmak için lüften devam butonuna tıklayınız. Ortaklık hesabı Müşteri hesabınızdan farklı bir hesaptır ve birbirleri ile bağlantılı değildir.</p>';
+$_['text_returning_affiliate']      = 'Oturum Aç';
+$_['text_i_am_returning_affiliate'] = 'Ortaklık için daha önce kayıt oldum.';
+$_['text_forgotten']                = 'Parolamı Unuttum';
 
 // Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
-$_['entry_password']                = 'Password';
+$_['entry_email']                   = 'Ortaklık E-Posta';
+$_['entry_password']                = 'Parola';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                   = 'Uyarı: E-Posta adresi ya da parolanız yanlış';
+$_['error_attempts']                            = 'Uyarı: Oturum açma deneme sınırına ulaştınız. Lütfen 1 saat içinde tekrar deneyiniz!';
+$_['error_approved']                = 'Uyarı: Hesabınıza giriş yapabilmek için önce hesabınızın onaylanması gerekmektedir.';
