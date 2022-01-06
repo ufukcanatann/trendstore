@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Sagepay Direct Card Management';
+$_['heading_title']    = 'Sagepay Doğrudan Kart Yönetimi';
 
 $_['text_extension']   = 'Eklentiler';
 $_['text_success']     = 'Success: You have modified Sagepay Direct Card Management module!';

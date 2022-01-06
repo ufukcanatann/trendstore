@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_subject']  = '%s tarafından hediye çeki gönderildi.';
 $_['text_greeting'] = 'Tebrikler, %s değerinde bir hediye çeki aldınız.';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Web Blogu';
+$_['heading_title']         = 'TS | Blog';
 $_['heading_entry']         = 'Blog Girişi';
 $_['heading_list']          = 'Blog Giriş Listesi';
 

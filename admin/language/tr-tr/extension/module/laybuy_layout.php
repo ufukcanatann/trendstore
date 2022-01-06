@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Lay-Buy Layout';
+$_['heading_title']    = 'Lay-Buy Satın Alma Düzeni';
 
 // Text
 $_['text_extension']   = 'Eklentiler';

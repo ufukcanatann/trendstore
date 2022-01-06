@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'eBay Listing';
+$_['heading_title']     = 'eBay Listesi';
 
 // Text
 $_['text_extension']    = 'Eklentiler';

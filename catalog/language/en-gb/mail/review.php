@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_subject']  = '%s - Ürüne Yorum Yapıldı';
 $_['text_waiting']  = 'Onay bekleyen yeni bir ürün yorumu var.';

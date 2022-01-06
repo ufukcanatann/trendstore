@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
 $_['heading_title']        = 'Para Birimleri';
 
@@ -9,7 +7,7 @@ $_['text_success']         = 'Başarılı: Para birimi başarılı bir şekilde 
 $_['text_list']            = 'Para Birimi Listesi';
 $_['text_add']             = 'Para Birimi Ekle';
 $_['text_edit']            = 'Para Birimi Düzenle';
-$_['text_iso']             = 'You can find a full list of ISO currency codes and settings <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">here</a>.';
+$_['text_iso']             = 'ISO para birimi kodlarının ve ayarlarının tam listesini <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">burada</a> bulabilirsiniz.';
 
 // Column
 $_['column_title']         = 'Para Birimi Adı';

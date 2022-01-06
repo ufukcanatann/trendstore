@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Login with Amazon';
+$_['heading_title']         = 'Amazon ile Giriş Yap';
 
 //Text
 $_['text_extension']        = 'Eklentiler';

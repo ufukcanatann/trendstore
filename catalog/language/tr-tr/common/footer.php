@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_information']  = 'Bilgiler';
 $_['text_service']      = 'Müşteri Servisi';
@@ -16,4 +14,4 @@ $_['text_account']      = 'Hesabım';
 $_['text_order']        = 'Siparişlerim';
 $_['text_wishlist']     = 'Alışveriş Listem';
 $_['text_newsletter']   = 'Bülten Aboneliği';
-$_['text_powered']      = '%s &copy; %s - Tüm Hakları Saklıdır.<br />Altyapı: <a href="http://instagr.am/ufakbeg" title="ufakbeg">ufakbeg</a> - Türkçe Çeviri: <a href="https://twitter.com/ufakdev" title="ufakbeg">ufakdev</a>';
+$_['text_powered']      = '%s &copy; %s - Tüm Hakları Saklıdır.<br />Altyapı: <a href="" title="ufakbeg">IOTAProDesign</a>';

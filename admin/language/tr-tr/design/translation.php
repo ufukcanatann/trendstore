@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
 $_['heading_title']    = 'Dil Editörü';
 
@@ -30,5 +28,5 @@ $_['entry_default']    = 'Varsayılan';
 $_['entry_value']      = 'Değer';
 
 // Error
-$_['error_permission'] = 'Warning: Dil editörünü düzenleme iznine sahip değilsiniz!';
+$_['error_permission'] = 'Uyarı: Dil editörünü düzenleme iznine sahip değilsiniz!';
 $_['error_key']        = 'Anahtar 3 ile 64 karakter arasında olmalı!';

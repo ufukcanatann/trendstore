@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_subject']        = '%s - Ortaklık Programı';
 $_['text_welcome']        = '%s ortaklık programına kayıt olduğunuz için teşekkür ederiz!';

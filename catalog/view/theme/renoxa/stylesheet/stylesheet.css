@@ -4909,6 +4909,7 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 		margin-bottom: 15px;
 	}
 	.menusp .navbar-header button{
+		color: white;
 		border: none;
 		padding: 0;
 		background: transparent;

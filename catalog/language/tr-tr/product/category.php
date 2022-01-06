@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_refine']       = 'Alt Kategoriler';
 $_['text_product']      = 'Ürünler';

@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
 $_['heading_title']         = 'Siparişlerim';
 
@@ -36,4 +34,4 @@ $_['column_status']         = 'Durumu';
 $_['column_comment']        = 'Açıklama';
 
 // Error
-$_['error_reorder']         = '%s is not currently available to be reordered.';
+$_['error_reorder']         = '%s şu anda yeniden sipariş için mevcut değil.';

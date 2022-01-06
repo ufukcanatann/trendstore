@@ -1,18 +1,18 @@
 <?php
 
 // Heading
-$_['heading_campaign']                      = 'Smart Shopping Ad Campaigns';
-$_['heading_mapping']                       = 'Category Mapping';
-$_['heading_merchant']                      = 'Google Merchant Center Account';
-$_['heading_shipping_taxes']                = 'Shipping & Taxes';
-$_['heading_title']                         = 'Google Shopping';
+$_['heading_campaign']                      = 'Akıllı Alışveriş Reklam Kampanyaları';
+$_['heading_mapping']                       = 'Kategori Eşleme';
+$_['heading_merchant']                      = 'Google Merchant Center Hesabı';
+$_['heading_shipping_taxes']                = 'Nakliye ve Vergiler';
+$_['heading_title']                         = 'Google Alışveriş';
 
 // Steps
-$_['step_campaigns']                        = 'Smart Shopping Ad Campaigns';
-$_['step_connect']                          = 'Connect';
-$_['step_mapping']                          = 'Category Mapping';
-$_['step_merchant_account']                 = 'Merchant Center Account';
-$_['step_shipping_taxes']                   = 'Shipping &amp; Taxes';
+$_['step_campaigns']                        = 'Akıllı Alışveriş Reklam Kampanyaları';
+$_['step_connect']                          = 'Bağlan';
+$_['step_mapping']                          = 'Kategori Eşleme';
+$_['step_merchant_account']                 = 'Merchant Center Hesabı';
+$_['step_shipping_taxes']                   = 'Nakliye &amp; Vergiler';
 
 // Help
 $_['help_adult']                            = 'Use this attribute to indicate that individual products are for adults only because they contain adult content such as nudity, sexually suggestive content, or are intended to enhance sexual activity. Google cares what they show to their users, so if your business model is not adult oriented but you&apos;re selling an individual adult-oriented product, you need to label that product clearly so Google can show appropriate and legally compliant content to people shopping online.';

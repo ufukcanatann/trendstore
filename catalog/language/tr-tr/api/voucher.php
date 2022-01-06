@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_success']     = 'Başarılı: Hediye çeki sepetinize başarıyla uygulandı!';
 $_['text_cart']        = 'Başarılı: Alışveriş sepetiniz başarıyla güncellendi!';

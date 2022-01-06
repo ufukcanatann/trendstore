@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'TS Satış Afişi';
+$_['heading_title']    = 'TS | Satış Afişi';
 
 // Text
 $_['text_extension']   = 'Eklentiler';

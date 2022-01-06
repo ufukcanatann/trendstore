@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_subject']  = '%s - Hesabınız Etkinleştirildi!';
 $_['text_welcome']  = '%s sitemize kayıt olduğunuz için teşekkür ederiz!';

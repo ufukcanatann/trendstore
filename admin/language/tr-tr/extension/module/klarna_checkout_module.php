@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']	   = 'Klarna Checkout';
+$_['heading_title']	   = 'Klarna Ödeme';
 
 // Text
 $_['text_extension']   = 'Extensions';

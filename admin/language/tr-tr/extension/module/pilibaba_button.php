@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Pilibaba Checkout Button';
+$_['heading_title']    = 'Pilibaba Ödeme Düğmesi';
 
 // Text
 $_['text_extension']   = 'Extensions';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    		 = '<b>TS Sayaç</b>';
+$_['heading_title']    		 = '<b>TS | Geri Sayım</b>';
 $_['page_title']    		 = 'Sayaç';
 
 // Text

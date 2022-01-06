@@ -1,8 +1,6 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
-$_['heading_title']    = 'PayPal Express Checkout Button';
+$_['heading_title']    = 'PayPal Ekspres Ödeme Düğmesi';
 
 // Text
 $_['text_extension']   = 'Eklentiler';

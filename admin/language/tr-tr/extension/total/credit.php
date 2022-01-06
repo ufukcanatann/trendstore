@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
 $_['heading_title']    = 'Mağaza Kredisi';
 $_['text_edit']        = 'Mağaza Kredisi Düzenle';

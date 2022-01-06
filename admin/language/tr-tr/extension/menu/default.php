@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']          = 'Default Menu';
+$_['heading_title']          = 'Varsayılan Menü';
 
 // Text
-$_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Success: You have modified Google Base feed!';
-$_['text_edit']              = 'Edit Google Base';
-$_['text_import']            = 'To download the latest Google category list by <a href="https://support.google.com/merchants/answer/160081?hl=en" target="_blank" class="alert-link">clicking here</a> and choose taxonomy with numeric IDs in Plain Text (.txt) file. Upload via the green import button.';
+$_['text_extension']         = 'Eklentiler';
+$_['text_success']           = 'Başarılı: Google Base özet akışını değiştirdiniz!';
+$_['text_edit']              = 'Google Base Düzenle';
+$_['text_import']            = 'En son Google kategori listesini <a href="https://support.google.com/merchants/answer/160081?hl=en" target="_blank" class="alert-link">burayı tıklayarak</b> indirmek için a> ve Düz Metin (.txt) dosyasında sayısal kimliklere sahip sınıflandırmayı seçin. Yeşil içe aktarma düğmesi ile yükleyin.';
 
 // Column
-$_['column_google_category'] = 'Google Category';
-$_['column_category']        = 'Category';
-$_['column_action']          = 'Action';
+$_['column_google_category'] = 'Google Kategori';
+$_['column_category']        = 'Kategori';
+$_['column_action']          = 'Eylem';
 
 // Entry
-$_['entry_google_category']  = 'Google Category';
-$_['entry_category']         = 'Category';
-$_['entry_data_feed']        = 'Data Feed Url';
-$_['entry_status']           = 'Status';
+$_['entry_google_category']  = 'Google Kategori';
+$_['entry_category']         = 'Kategori';
+$_['entry_data_feed']        = 'Veri Besleme URL\'si';
+$_['entry_status']           = 'Durum';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to modify Google Base feed!';
-$_['error_upload']           = 'File could not be uploaded!';
-$_['error_filetype']         = 'Invalid file type!';
+$_['error_permission']       = 'Uyarı: Google Base özet akışını değiştirme izniniz yok!';
+$_['error_upload']           = 'Dosya yüklenemedi!';
+$_['error_filetype']         = 'Geçersiz dosya türü!';

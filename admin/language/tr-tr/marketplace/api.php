@@ -2,11 +2,11 @@
 /* Turkceye Ceviren eka7a - http://e-piksel.com */
 
 // Heading
-$_['heading_title']    = 'OpenCart Pazaryeri API';
+$_['heading_title']    = 'Pazaryeri API';
 
 // Text
 $_['text_success']     = 'Başarılı: API bilgileri başarılı bir şekilde değiştirildi!!';
-$_['text_signup']      = 'Lütfen <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">buradan</a> edinebileceğiniz OpenCart API bilgisini giriniz.';
+$_['text_signup']      = 'Lütfen <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">buradan</a> edinebileceğiniz API bilgisini giriniz.';
 
 // Entry
 $_['entry_username']   = 'Kullanıcı Adı';

@@ -1,8 +1,6 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
-$_['heading_title']             = 'Your Affiliate Information';
+$_['heading_title']             = 'Ortaklık Bilgileriniz';
 
 // Text
 $_['text_account']              = 'Hesabım';

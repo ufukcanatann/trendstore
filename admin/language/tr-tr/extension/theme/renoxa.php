@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']                    = 'Renoxa Store Theme';
+$_['heading_title']                    = 'Trend Store Tema';
 
 // Text
 $_['text_extension']                   = 'Extensions';
-$_['text_success']                     = 'Success: You have modified the renoxa store theme!';
-$_['text_edit']                        = 'Edit Renoxa Store Theme';
+$_['text_success']                     = 'Success: You have modified the Trend Store store theme!';
+$_['text_edit']                        = 'Edit Trend Store Store Theme';
 $_['text_general']                     = 'General';
 $_['text_product']                     = 'Products';
 $_['text_image']                       = 'Images';
@@ -13,7 +13,7 @@ $_['text_image']                       = 'Images';
 // Entry
 $_['entry_directory']                  = 'Theme Directory';
 $_['entry_status']                     = 'Status';
-$_['entry_product_limit']              = 'Renoxa Items Per Page';
+$_['entry_product_limit']              = 'Trend Store Items Per Page';
 $_['entry_product_description_length'] = 'List Description Limit';
 $_['entry_image_category']             = 'Category Image Size (W x H)';
 $_['entry_image_thumb']                = 'Product Image Thumb Size (W x H)';
@@ -34,7 +34,7 @@ $_['help_product_limit']               = 'Determines how many catalog items are 
 $_['help_product_description_length']  = 'In the list view, short description character limit (categories, special etc)';
 
 // Error
-$_['error_permission']                 = 'Warning: You do not have permission to modify the renoxa store theme!';
+$_['error_permission']                 = 'Warning: You do not have permission to modify the Trend Store store theme!';
 $_['error_limit']                      = 'Product Limit required!';
 $_['error_image_thumb']                = 'Product Image Thumb Size dimensions required!';
 $_['error_image_popup']                = 'Product Image Popup Size dimensions required!';

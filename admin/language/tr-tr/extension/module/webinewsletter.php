@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Web Bülteni';
+$_['heading_title']       = 'TS | Bülten';
 
 // Text
 $_['txt_none'] = 'Varsayılan';

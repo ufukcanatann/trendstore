@@ -1,10 +1,10 @@
 <?php
 
 // Heading
-$_['heading_title']     = 'Webi Quick View';
+$_['heading_title']     = 'TS | Hızlı Görünüm';
 
 // Text
-$_['text_extension']    = 'Extensions';
+$_['text_extension']    = 'Eklentiler';
 $_['text_success']      = 'Success: You have modified HTML Content module!';
 $_['text_edit']         = 'Edit QuickView Module';
 

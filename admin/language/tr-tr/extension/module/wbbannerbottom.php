@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'TS Alt Afiş';
+$_['heading_title']    = 'TS | Alt Afiş';
 
 // Text
 $_['text_extension']   = 'Eklentiler';

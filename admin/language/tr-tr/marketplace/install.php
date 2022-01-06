@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_success']     = 'Başarılı: Eklentiler başarılı bir şekilde değiştirildi!';
 $_['text_unzip']       = 'Dosyalar açılıyor!';

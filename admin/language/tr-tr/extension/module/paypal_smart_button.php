@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    					= 'PayPal Smart Button';
+$_['heading_title']    					= 'PayPal Akıllı Düğmesi';
 
 // Text
 $_['text_extensions']   				= 'Extensions';

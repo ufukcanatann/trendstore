@@ -1,12 +1,10 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
 $_['heading_title']     = 'Modifikasyonlar';
 
 // Text
 $_['text_success']      = 'Başarılı: Modifikasyonlar güncellendi!';
-$_['text_refresh']      = 'Whenever you enable / disable or delete a modification you need to click the refresh button to rebuild your modification cache!';
+$_['text_refresh']      = 'Bir değişikliği etkinleştirdiğinizde / devre dışı bıraktığınızda veya sildiğinizde, değişiklik önbelleğinizi yeniden oluşturmak için yenile düğmesine tıklamanız gerekir!';
 $_['text_list']         = 'Modifikasyon Listesi';
 
 // Column

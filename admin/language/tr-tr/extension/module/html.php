@@ -1,8 +1,6 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
-$_['heading_title']     = 'HTML İçerik';
+$_['heading_title']     = 'HTML İçerikler';
 
 // Text
 $_['text_extension']    = 'Eklentiler';

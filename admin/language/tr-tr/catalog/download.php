@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
 $_['heading_title']     = 'Dosyalar';
 
@@ -22,7 +20,7 @@ $_['entry_filename']    = 'Dosya Adı';
 $_['entry_mask']        = 'Maske';
 
 // Help
-$_['help_filename']     = 'Download dizinine dosya yüklemek için "Yükle" butonuyla ya da FTP kullanarak yükleyebilir ve aşağıda maske adını girebilirsiniz.';
+$_['help_filename']     = 'İndirme dizinine dosya yüklemek için "Yükle" butonuyla ya da FTP kullanarak yükleyebilir ve aşağıda maske adını girebilirsiniz.';
 $_['help_mask']         = 'Ayrıca tavsiye edilir, dosya adı ve maske insanların direk bağlantı adresi girerek dosyalarınızı indirmelerini engeller.';
 
 // Error

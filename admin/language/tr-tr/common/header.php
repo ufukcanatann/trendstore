@@ -1,8 +1,6 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Heading
-$_['heading_title']      = 'OpenCart Türkçe';
+$_['heading_title']      = 'Trend Store Türkçe';
 
 // Text
 $_['text_profile']       = 'Profilim';

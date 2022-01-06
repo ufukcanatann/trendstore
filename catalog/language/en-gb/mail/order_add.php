@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_subject']          = '%s - Sipariş %s';
 $_['text_greeting']         = '%s ürünlerimize göstermiş olduğunuz ilgiden dolayı teşekkür ederiz. Ödemeniz onaylandıktan sonra siparişiniz işleme konulacaktır.';

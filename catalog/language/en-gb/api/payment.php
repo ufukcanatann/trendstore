@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_address']       = 'Başarılı: Ödeme adresi ayarlandı!';
 $_['text_method']        = 'Başarılı: Ödeme metodu ayarlandı!';

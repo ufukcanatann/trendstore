@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_success']     = 'Başarılı: Puan indirimi sepetinize başarıyla uygulandı!';
 

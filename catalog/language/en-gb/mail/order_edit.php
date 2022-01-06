@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_subject']       = '%s - %s Nolu Siparişinizin Durumu Güncellendi';
 $_['text_order_id']      = 'Sipariş No:';

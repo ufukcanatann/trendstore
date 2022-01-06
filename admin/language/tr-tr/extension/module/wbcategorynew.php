@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'TS Anasayfa Kategorileri';
+$_['heading_title']    = 'TS | Anasayfa Kategorileri';
 
 // Text
 $_['text_extension']   = 'Eklentiler';

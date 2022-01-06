@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'PayPal (Powered by Braintree) Button';
+$_['heading_title']    = 'PayPal (Braintree tarafından desteklenmektedir) Düğmesi';
 
 // Text
 $_['text_extension']   = 'Extensions';

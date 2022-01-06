@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Divido Product Page Calculator';
+$_['heading_title']    = 'Divido Ürün Sayfası Hesaplayıcı';
 
 // Text
 $_['text_extension']   = 'Extensions';

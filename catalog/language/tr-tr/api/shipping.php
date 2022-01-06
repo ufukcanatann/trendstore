@@ -1,6 +1,4 @@
 <?php
-/* Turkceye Ceviren eka7a - http://e-piksel.com */
-
 // Text
 $_['text_address']       = 'Başarılı: Teslimat adresi ayarlandı!';
 $_['text_method']        = 'Başarılı: Kargo metodu ayarlandı!';
