@@ -1002,7 +1002,7 @@ body.active-search .wbSearch {
 	
 }
 #menu .pull-img{
-	background: #f5f5f5;
+	background: #dfdfdf;
 	border-radius: 100%; 
 }
 .pull-img {
@@ -1228,7 +1228,7 @@ border-radius: 100%;
 	padding: 6px 0 0 0;
 }
 #slideshow0.owl-carousel.owl-theme .owl-controls .owl-buttons div:hover{
-	background-color: #f5f5f5;
+	background-color: #22222;
 	color: #fff;
 }
 #slideshow0.owl-carousel.owl-theme:hover .owl-controls .owl-buttons div{
@@ -1942,8 +1942,8 @@ margin-right: 67px;
 	border-radius: 100%;
 	transition: all .3s ease-in-out 0s;
 	padding: 17px 0 0 0px;
-	background: #f5f5f5;
-	border: 1px solid #f5f5f5;
+	background: #22222;
+	border: 1px solid #22222;
 	transition: 0.3s ease;
 }
 .deliveryinfo ul:hover li.ser-svg{
@@ -2001,7 +2001,7 @@ margin-right: 67px;
 	width: auto;
 	position: relative;
 	border-radius: 4px;
-	background: #f5f5f5;
+	background: #22222;
 }
 
 
@@ -2009,7 +2009,7 @@ margin-right: 67px;
 	position: relative
 }
 .catcontent{
-	background: #f5f5f5;
+	background: #22222;
 	border-top: 1px solid #e5e5e5;
 	padding: 11px 0px;
 	border-radius: 0px 0 4px 4px;
@@ -2187,7 +2187,7 @@ margin-right: 67px;
 #testi svg{
 	height: 120px;
 	width: 120px;
-	fill: #f5f5f5;
+	fill: #22222;
 	position: absolute;
 	bottom: 24px;
 	text-align: center;
@@ -2695,7 +2695,7 @@ padding-bottom: 20px;
 }
 
 footer{
-	background-color: #f5f5f5;
+	background-color: #22222;
 	position: relative;
 	margin-top: 70px;
 }
@@ -3373,7 +3373,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover{
 	display: inline-block;
 }
 .product-list .product-thumb .button-group button,.product-list .bquickv a{
-	background-color: #f5f5f5;
+	background-color: #22222;
 	display: inline-block;
 	margin-bottom: 0;
 }
@@ -3381,7 +3381,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover{
 	height: 35px;
 	width: 35px;
 	padding: 7px 8px;
-	background-color: #f5f5f5;
+	background-color: #22222;
 }
 .product-list .homeaddq .cartb svg{
 	fill: #000;
@@ -3600,7 +3600,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover{
 }
 
 #checkout-cart .table-bordered > thead > tr > td {
-    background: #f5f5f5;
+    background: #22222;
 }
 #checkout-cart .table-bordered > tbody > tr > td:nth-child(2) {
     font-weight: 500;
@@ -4784,7 +4784,7 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 		min-height: 28px;
 		padding: 3px 5px;
 		margin: 0;
-		background-color: #f5f5f5;
+		background-color: #22222;
 	}
 	.product-list .homeaddq .cartb{
 		width: 30px;
@@ -4805,7 +4805,7 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 		height: 30px;
 		padding: 5px 5px;
 		margin: 0;
-		background-color: #f5f5f5;
+		background-color: #22222;
 	}
 	.button-group{
 		display: inline-block;
